@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.roboriya.shop  # submit your host
+REDIS_HOST: redis-prod.roboriya.shop 
+MYSQL_HOST: mysql-prod.roboriya.shop 
+RABBITMQ_HOST: rabbitmq-prod.roboriya.shop 
+CATALOGUE_HOST: catalogue-prod.roboriya.shop 
+USER_HOST: user-prod.roboriya.shop 
+CART_HOST: cart-prod.roboriya.shop 
+SHIPPING_HOST: shipping-prod.roboriya.shop 
+PAYMENT_HOST: payment-prod.roboriya.shop 
+DISPATCH_HOST: dispatch-prod.roboriya.shop 
