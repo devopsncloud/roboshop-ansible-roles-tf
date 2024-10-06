@@ -2,7 +2,7 @@
   - name: copy mongo repo into /etc/yum.repos.d/mongo.repo
     copy:
       src: mongodb.repo
-      dest: /etc/yum.repos.d/mongo.repo
+      dest: /etc/yum.repos.d/mongodb.repo
   
   - name: Install mongodb
     ansible.builtin.package:
