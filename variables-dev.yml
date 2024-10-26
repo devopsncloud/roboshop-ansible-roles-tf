@@ -9,3 +9,6 @@ CART_HOST: cart.app-dev.roboriya.shop
 SHIPPING_HOST: shipping.app-dev.roboriya.shop 
 PAYMENT_HOST: payment.app-dev.roboriya.shop 
 DISPATCH_HOST: dispatch.app-dev.roboriya.shop 
+
+NEXUS_URL: http://172.31.39.170:8081/repository
+group_id: "com/roboshop"
